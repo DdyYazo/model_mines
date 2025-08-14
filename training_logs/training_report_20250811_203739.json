@@ -1,0 +1,30 @@
+{
+  "model_config": {
+    "sequence_length": 3,
+    "sequence_model_length": 75,
+    "feature_dim": 25,
+    "model_parameters": 62393
+  },
+  "data_info": {
+    "sequence_length": 3,
+    "feature_dim": 25,
+    "random_seed": 42,
+    "total_samples": 199,
+    "total_games_loaded": 202
+  },
+  "training_config": {
+    "epochs_trained": 29,
+    "final_train_loss": 0.48019349575042725,
+    "final_val_loss": 0.5070804953575134
+  },
+  "evaluation_results": {
+    "loss": 0.47493892908096313,
+    "compile_metrics": 0.8453333377838135,
+    "top3_hit_rate": 0.13333333333333333,
+    "exact_match_rate": 0.0,
+    "baseline_hit_rate": 0.15555555555555553,
+    "hit_rate_improvement": -0.0222222222222222,
+    "brier_score": 0.1343071460723877
+  },
+  "timestamp": "2025-08-11T20:37:39.553860"
+}

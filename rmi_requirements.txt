@@ -1,0 +1,19 @@
+# rmi_requirements.txt
+# Dependencias para el sistema de métodos remotos en Python
+
+# Nota: Este proyecto utiliza únicamente librerías estándar de Python
+# No se requieren instalaciones adicionales con pip
+
+# Las siguientes librerías están incluidas en Python por defecto:
+# - xmlrpc.server (para el servidor XML-RPC)
+# - xmlrpc.client (para el cliente XML-RPC)
+# - abc (para interfaces abstractas)
+# - threading (para manejo de hilos)
+# - sys (para argumentos del sistema)
+# - time (para temporización)
+
+# Python versión mínima requerida: 3.6+
+
+# Para desarrollo y pruebas (opcional):
+# pytest>=6.0.0
+# coverage>=5.0.0
